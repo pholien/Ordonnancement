@@ -1,0 +1,12 @@
+NombreTypeRessources: 4
+NombreJob: 75
+DureeInterval: 1 10
+1RessourceInterval: 1 4
+2RessourceInterval: 1 8
+3RessourceInterval: 0 10
+4RessourceInterval: 1 2
+NombreDeMachine: 5
+1RessourceInterval: 6 8
+2RessourceInterval: 10 16
+3RessourceInterval: 12 20
+4RessourceInterval: 4 8

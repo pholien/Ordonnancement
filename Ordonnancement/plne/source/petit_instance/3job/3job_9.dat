@@ -1,0 +1,11 @@
+data;
+param nombreJob := 3;
+param nombreRessource := 3;
+param duree := 1 10 2 6 3 7;
+param capaciteRessource := 1 5 2 14 3 18;
+param besoinRessource : 1 2 3 :=
+                    1   4 7 1
+                    2   1 4 7
+                    3   2 5 3;
+end;
+

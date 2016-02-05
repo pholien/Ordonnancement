@@ -1,0 +1,1 @@
+glpsol -m glpsolRcpsp.mod -d data/5job_1.dat -o result/5job_1.sol

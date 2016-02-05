@@ -1,0 +1,1340 @@
+SPT Cmax: 14
+Job19 Machine 5 Duree 1 Debut 0 Fin 0
+Job2 Machine 5 Duree 2 Debut 0 Fin 1
+Job3 Machine 4 Duree 3 Debut 0 Fin 2
+Job7 Machine 4 Duree 3 Debut 0 Fin 2
+Job17 Machine 3 Duree 3 Debut 0 Fin 2
+Job18 Machine 3 Duree 3 Debut 0 Fin 2
+Job8 Machine 5 Duree 4 Debut 0 Fin 3
+Job10 Machine 3 Duree 4 Debut 0 Fin 3
+Job4 Machine 2 Duree 5 Debut 0 Fin 4
+Job5 Machine 2 Duree 5 Debut 0 Fin 4
+Job15 Machine 1 Duree 5 Debut 0 Fin 4
+Job9 Machine 1 Duree 6 Debut 0 Fin 5
+Job14 Machine 4 Duree 6 Debut 0 Fin 5
+Job1 Machine 5 Duree 7 Debut 2 Fin 8
+Job16 Machine 4 Duree 7 Debut 3 Fin 9
+Job20 Machine 3 Duree 8 Debut 3 Fin 10
+Job12 Machine 5 Duree 9 Debut 4 Fin 12
+Job6 Machine 3 Duree 10 Debut 4 Fin 13
+Job11 Machine 4 Duree 10 Debut 3 Fin 12
+Job13 Machine 2 Duree 10 Debut 5 Fin 14
+
+LPT Cmax: 9
+Job6 Machine 5 Duree 10 Debut 0 Fin 9
+Job11 Machine 5 Duree 10 Debut 0 Fin 9
+Job13 Machine 4 Duree 10 Debut 0 Fin 9
+Job12 Machine 3 Duree 9 Debut 0 Fin 8
+Job20 Machine 5 Duree 8 Debut 0 Fin 7
+Job1 Machine 4 Duree 7 Debut 0 Fin 6
+Job16 Machine 3 Duree 7 Debut 0 Fin 6
+Job9 Machine 2 Duree 6 Debut 0 Fin 5
+Job14 Machine 2 Duree 6 Debut 0 Fin 5
+Job4 Machine 1 Duree 5 Debut 0 Fin 4
+Job5 Machine 1 Duree 5 Debut 5 Fin 9
+Job15 Machine 1 Duree 5 Debut 0 Fin 4
+Job8 Machine 2 Duree 4 Debut 0 Fin 3
+Job10 Machine 1 Duree 4 Debut 5 Fin 8
+Job3 Machine 2 Duree 3 Debut 6 Fin 8
+Job7 Machine 2 Duree 3 Debut 6 Fin 8
+Job17 Machine 3 Duree 3 Debut 0 Fin 2
+Job18 Machine 2 Duree 3 Debut 6 Fin 8
+Job2 Machine 4 Duree 2 Debut 7 Fin 8
+Job19 Machine 3 Duree 1 Debut 7 Fin 7
+
+GRWC Cmax: 10
+Job13 Machine 5 Duree 10 Debut 0 Fin 9
+Job20 Machine 5 Duree 8 Debut 0 Fin 7
+Job11 Machine 4 Duree 10 Debut 0 Fin 9
+Job12 Machine 3 Duree 9 Debut 0 Fin 8
+Job1 Machine 4 Duree 7 Debut 0 Fin 6
+Job16 Machine 3 Duree 7 Debut 0 Fin 6
+Job6 Machine 2 Duree 10 Debut 0 Fin 9
+Job9 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 1 Duree 5 Debut 0 Fin 4
+Job4 Machine 2 Duree 5 Debut 0 Fin 4
+Job10 Machine 1 Duree 4 Debut 0 Fin 3
+Job5 Machine 1 Duree 5 Debut 4 Fin 8
+Job3 Machine 1 Duree 3 Debut 5 Fin 7
+Job14 Machine 2 Duree 6 Debut 5 Fin 10
+Job2 Machine 2 Duree 2 Debut 6 Fin 7
+Job18 Machine 4 Duree 3 Debut 7 Fin 9
+Job7 Machine 1 Duree 3 Debut 0 Fin 2
+Job8 Machine 4 Duree 4 Debut 7 Fin 10
+Job17 Machine 3 Duree 3 Debut 0 Fin 2
+Job19 Machine 3 Duree 1 Debut 7 Fin 7
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 17
+Job1 Machine 5 Duree 1 Debut 0 Fin 0
+Job8 Machine 5 Duree 1 Debut 0 Fin 0
+Job11 Machine 4 Duree 2 Debut 0 Fin 1
+Job13 Machine 4 Duree 3 Debut 0 Fin 2
+Job4 Machine 3 Duree 4 Debut 0 Fin 3
+Job15 Machine 3 Duree 4 Debut 0 Fin 3
+Job12 Machine 2 Duree 5 Debut 0 Fin 4
+Job16 Machine 2 Duree 5 Debut 0 Fin 4
+Job6 Machine 1 Duree 7 Debut 0 Fin 6
+Job14 Machine 5 Duree 7 Debut 1 Fin 7
+Job17 Machine 4 Duree 7 Debut 2 Fin 8
+Job3 Machine 5 Duree 8 Debut 0 Fin 7
+Job10 Machine 2 Duree 8 Debut 0 Fin 7
+Job5 Machine 4 Duree 9 Debut 3 Fin 11
+Job7 Machine 3 Duree 9 Debut 4 Fin 12
+Job9 Machine 3 Duree 9 Debut 0 Fin 8
+Job18 Machine 3 Duree 9 Debut 4 Fin 12
+Job19 Machine 2 Duree 9 Debut 5 Fin 13
+Job2 Machine 1 Duree 10 Debut 7 Fin 16
+Job20 Machine 5 Duree 10 Debut 8 Fin 17
+
+LPT Cmax: 14
+Job2 Machine 5 Duree 10 Debut 0 Fin 9
+Job20 Machine 5 Duree 10 Debut 0 Fin 9
+Job5 Machine 4 Duree 9 Debut 0 Fin 8
+Job7 Machine 4 Duree 9 Debut 0 Fin 8
+Job9 Machine 5 Duree 9 Debut 0 Fin 8
+Job18 Machine 3 Duree 9 Debut 0 Fin 8
+Job19 Machine 3 Duree 9 Debut 0 Fin 8
+Job3 Machine 2 Duree 8 Debut 0 Fin 7
+Job10 Machine 2 Duree 8 Debut 0 Fin 7
+Job6 Machine 1 Duree 7 Debut 0 Fin 6
+Job14 Machine 1 Duree 7 Debut 7 Fin 13
+Job17 Machine 2 Duree 7 Debut 8 Fin 14
+Job12 Machine 4 Duree 5 Debut 9 Fin 13
+Job16 Machine 1 Duree 5 Debut 0 Fin 4
+Job4 Machine 4 Duree 4 Debut 9 Fin 12
+Job15 Machine 2 Duree 4 Debut 8 Fin 11
+Job13 Machine 2 Duree 3 Debut 8 Fin 10
+Job11 Machine 3 Duree 2 Debut 9 Fin 10
+Job1 Machine 4 Duree 1 Debut 0 Fin 0
+Job8 Machine 1 Duree 1 Debut 5 Fin 5
+
+GRWC Cmax: 14
+Job20 Machine 5 Duree 10 Debut 0 Fin 9
+Job19 Machine 4 Duree 9 Debut 0 Fin 8
+Job5 Machine 4 Duree 9 Debut 0 Fin 8
+Job7 Machine 3 Duree 9 Debut 0 Fin 8
+Job14 Machine 2 Duree 7 Debut 0 Fin 6
+Job6 Machine 3 Duree 7 Debut 0 Fin 6
+Job18 Machine 2 Duree 9 Debut 0 Fin 8
+Job17 Machine 1 Duree 7 Debut 0 Fin 6
+Job10 Machine 3 Duree 8 Debut 7 Fin 14
+Job3 Machine 2 Duree 8 Debut 7 Fin 14
+Job2 Machine 5 Duree 10 Debut 0 Fin 9
+Job12 Machine 1 Duree 5 Debut 7 Fin 11
+Job4 Machine 4 Duree 4 Debut 9 Fin 12
+Job16 Machine 1 Duree 5 Debut 0 Fin 4
+Job15 Machine 1 Duree 4 Debut 5 Fin 8
+Job13 Machine 4 Duree 3 Debut 9 Fin 11
+Job11 Machine 3 Duree 2 Debut 9 Fin 10
+Job9 Machine 5 Duree 9 Debut 0 Fin 8
+Job8 Machine 2 Duree 1 Debut 0 Fin 0
+Job1 Machine 3 Duree 1 Debut 9 Fin 9
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 15
+Job2 Machine 5 Duree 1 Debut 0 Fin 0
+Job10 Machine 5 Duree 2 Debut 0 Fin 1
+Job9 Machine 4 Duree 4 Debut 0 Fin 3
+Job20 Machine 3 Duree 4 Debut 0 Fin 3
+Job17 Machine 4 Duree 5 Debut 0 Fin 4
+Job18 Machine 3 Duree 5 Debut 0 Fin 4
+Job4 Machine 2 Duree 6 Debut 0 Fin 5
+Job14 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 1 Duree 6 Debut 0 Fin 5
+Job3 Machine 1 Duree 7 Debut 0 Fin 6
+Job8 Machine 5 Duree 7 Debut 1 Fin 7
+Job1 Machine 5 Duree 8 Debut 2 Fin 9
+Job13 Machine 4 Duree 8 Debut 4 Fin 11
+Job19 Machine 4 Duree 8 Debut 4 Fin 11
+Job5 Machine 3 Duree 9 Debut 4 Fin 12
+Job6 Machine 3 Duree 9 Debut 5 Fin 13
+Job7 Machine 2 Duree 9 Debut 6 Fin 14
+Job11 Machine 1 Duree 9 Debut 6 Fin 14
+Job12 Machine 1 Duree 9 Debut 7 Fin 15
+Job16 Machine 5 Duree 9 Debut 2 Fin 10
+
+LPT Cmax: 13
+Job5 Machine 5 Duree 9 Debut 0 Fin 8
+Job6 Machine 5 Duree 9 Debut 0 Fin 8
+Job7 Machine 4 Duree 9 Debut 0 Fin 8
+Job11 Machine 3 Duree 9 Debut 0 Fin 8
+Job12 Machine 3 Duree 9 Debut 0 Fin 8
+Job16 Machine 4 Duree 9 Debut 0 Fin 8
+Job1 Machine 2 Duree 8 Debut 0 Fin 7
+Job13 Machine 2 Duree 8 Debut 0 Fin 7
+Job19 Machine 1 Duree 8 Debut 0 Fin 7
+Job3 Machine 1 Duree 7 Debut 0 Fin 6
+Job8 Machine 1 Duree 7 Debut 0 Fin 6
+Job4 Machine 1 Duree 6 Debut 7 Fin 12
+Job14 Machine 2 Duree 6 Debut 8 Fin 13
+Job15 Machine 2 Duree 6 Debut 8 Fin 13
+Job17 Machine 1 Duree 5 Debut 7 Fin 11
+Job18 Machine 1 Duree 5 Debut 8 Fin 12
+Job9 Machine 5 Duree 4 Debut 9 Fin 12
+Job20 Machine 4 Duree 4 Debut 9 Fin 12
+Job10 Machine 4 Duree 2 Debut 9 Fin 10
+Job2 Machine 3 Duree 1 Debut 9 Fin 9
+
+GRWC Cmax: 14
+Job11 Machine 5 Duree 9 Debut 0 Fin 8
+Job13 Machine 4 Duree 8 Debut 0 Fin 7
+Job5 Machine 3 Duree 9 Debut 0 Fin 8
+Job7 Machine 3 Duree 9 Debut 0 Fin 8
+Job6 Machine 5 Duree 9 Debut 0 Fin 8
+Job3 Machine 2 Duree 7 Debut 0 Fin 6
+Job12 Machine 1 Duree 9 Debut 0 Fin 8
+Job15 Machine 1 Duree 6 Debut 0 Fin 5
+Job4 Machine 1 Duree 6 Debut 6 Fin 11
+Job9 Machine 2 Duree 4 Debut 7 Fin 10
+Job1 Machine 4 Duree 8 Debut 0 Fin 7
+Job16 Machine 1 Duree 9 Debut 0 Fin 8
+Job8 Machine 2 Duree 7 Debut 0 Fin 6
+Job18 Machine 4 Duree 5 Debut 8 Fin 12
+Job14 Machine 5 Duree 6 Debut 9 Fin 14
+Job19 Machine 2 Duree 8 Debut 0 Fin 7
+Job20 Machine 4 Duree 4 Debut 8 Fin 11
+Job17 Machine 2 Duree 5 Debut 8 Fin 12
+Job10 Machine 5 Duree 2 Debut 9 Fin 10
+Job2 Machine 3 Duree 1 Debut 9 Fin 9
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 17
+Job10 Machine 5 Duree 1 Debut 0 Fin 0
+Job16 Machine 5 Duree 1 Debut 0 Fin 0
+Job11 Machine 4 Duree 2 Debut 0 Fin 1
+Job12 Machine 4 Duree 2 Debut 0 Fin 1
+Job17 Machine 3 Duree 3 Debut 0 Fin 2
+Job19 Machine 3 Duree 3 Debut 0 Fin 2
+Job1 Machine 2 Duree 4 Debut 0 Fin 3
+Job4 Machine 1 Duree 4 Debut 0 Fin 3
+Job6 Machine 1 Duree 6 Debut 0 Fin 5
+Job2 Machine 5 Duree 7 Debut 1 Fin 7
+Job5 Machine 4 Duree 7 Debut 2 Fin 8
+Job7 Machine 4 Duree 7 Debut 2 Fin 8
+Job3 Machine 2 Duree 8 Debut 0 Fin 7
+Job18 Machine 5 Duree 8 Debut 0 Fin 7
+Job9 Machine 3 Duree 9 Debut 3 Fin 11
+Job13 Machine 3 Duree 9 Debut 3 Fin 11
+Job15 Machine 2 Duree 9 Debut 4 Fin 12
+Job8 Machine 1 Duree 10 Debut 4 Fin 13
+Job14 Machine 1 Duree 10 Debut 6 Fin 15
+Job20 Machine 5 Duree 10 Debut 8 Fin 17
+
+LPT Cmax: 13
+Job8 Machine 5 Duree 10 Debut 0 Fin 9
+Job14 Machine 4 Duree 10 Debut 0 Fin 9
+Job20 Machine 3 Duree 10 Debut 0 Fin 9
+Job9 Machine 5 Duree 9 Debut 0 Fin 8
+Job13 Machine 5 Duree 9 Debut 0 Fin 8
+Job15 Machine 4 Duree 9 Debut 0 Fin 8
+Job3 Machine 3 Duree 8 Debut 0 Fin 7
+Job18 Machine 2 Duree 8 Debut 0 Fin 7
+Job2 Machine 2 Duree 7 Debut 0 Fin 6
+Job5 Machine 1 Duree 7 Debut 0 Fin 6
+Job7 Machine 1 Duree 7 Debut 0 Fin 6
+Job6 Machine 2 Duree 6 Debut 7 Fin 12
+Job1 Machine 1 Duree 4 Debut 7 Fin 10
+Job4 Machine 5 Duree 4 Debut 10 Fin 13
+Job17 Machine 4 Duree 3 Debut 10 Fin 12
+Job19 Machine 2 Duree 3 Debut 0 Fin 2
+Job11 Machine 3 Duree 2 Debut 10 Fin 11
+Job12 Machine 2 Duree 2 Debut 3 Fin 4
+Job10 Machine 2 Duree 1 Debut 5 Fin 5
+Job16 Machine 1 Duree 1 Debut 7 Fin 7
+
+GRWC Cmax: 12
+Job14 Machine 5 Duree 10 Debut 0 Fin 9
+Job15 Machine 5 Duree 9 Debut 0 Fin 8
+Job20 Machine 4 Duree 10 Debut 0 Fin 9
+Job3 Machine 4 Duree 8 Debut 0 Fin 7
+Job9 Machine 3 Duree 9 Debut 0 Fin 8
+Job13 Machine 4 Duree 9 Debut 0 Fin 8
+Job8 Machine 3 Duree 10 Debut 0 Fin 9
+Job2 Machine 2 Duree 7 Debut 0 Fin 6
+Job5 Machine 1 Duree 7 Debut 0 Fin 6
+Job7 Machine 1 Duree 7 Debut 0 Fin 6
+Job18 Machine 2 Duree 8 Debut 0 Fin 7
+Job6 Machine 2 Duree 6 Debut 7 Fin 12
+Job4 Machine 1 Duree 4 Debut 7 Fin 10
+Job1 Machine 3 Duree 4 Debut 9 Fin 12
+Job17 Machine 5 Duree 3 Debut 10 Fin 12
+Job11 Machine 4 Duree 2 Debut 10 Fin 11
+Job19 Machine 2 Duree 3 Debut 0 Fin 2
+Job12 Machine 2 Duree 2 Debut 3 Fin 4
+Job16 Machine 1 Duree 1 Debut 7 Fin 7
+Job10 Machine 2 Duree 1 Debut 5 Fin 5
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 14
+Job17 Machine 5 Duree 1 Debut 0 Fin 0
+Job10 Machine 5 Duree 2 Debut 0 Fin 1
+Job16 Machine 4 Duree 3 Debut 0 Fin 2
+Job5 Machine 4 Duree 4 Debut 0 Fin 3
+Job12 Machine 3 Duree 4 Debut 0 Fin 3
+Job14 Machine 4 Duree 4 Debut 0 Fin 3
+Job8 Machine 3 Duree 5 Debut 0 Fin 4
+Job11 Machine 3 Duree 5 Debut 0 Fin 4
+Job3 Machine 2 Duree 6 Debut 0 Fin 5
+Job6 Machine 1 Duree 6 Debut 0 Fin 5
+Job9 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 3 Duree 6 Debut 0 Fin 5
+Job1 Machine 5 Duree 8 Debut 0 Fin 7
+Job2 Machine 1 Duree 8 Debut 0 Fin 7
+Job19 Machine 5 Duree 8 Debut 2 Fin 9
+Job4 Machine 4 Duree 9 Debut 4 Fin 12
+Job7 Machine 3 Duree 9 Debut 4 Fin 12
+Job13 Machine 3 Duree 9 Debut 6 Fin 14
+Job20 Machine 2 Duree 9 Debut 6 Fin 14
+Job18 Machine 4 Duree 10 Debut 4 Fin 13
+
+LPT Cmax: 11
+Job18 Machine 5 Duree 10 Debut 0 Fin 9
+Job4 Machine 5 Duree 9 Debut 0 Fin 8
+Job7 Machine 4 Duree 9 Debut 0 Fin 8
+Job13 Machine 4 Duree 9 Debut 0 Fin 8
+Job20 Machine 3 Duree 9 Debut 0 Fin 8
+Job1 Machine 4 Duree 8 Debut 0 Fin 7
+Job2 Machine 3 Duree 8 Debut 0 Fin 7
+Job19 Machine 2 Duree 8 Debut 0 Fin 7
+Job3 Machine 2 Duree 6 Debut 0 Fin 5
+Job6 Machine 1 Duree 6 Debut 0 Fin 5
+Job9 Machine 2 Duree 6 Debut 6 Fin 11
+Job15 Machine 1 Duree 6 Debut 0 Fin 5
+Job8 Machine 3 Duree 5 Debut 0 Fin 4
+Job11 Machine 1 Duree 5 Debut 6 Fin 10
+Job5 Machine 1 Duree 4 Debut 0 Fin 3
+Job12 Machine 1 Duree 4 Debut 4 Fin 7
+Job14 Machine 1 Duree 4 Debut 6 Fin 9
+Job16 Machine 3 Duree 3 Debut 8 Fin 10
+Job10 Machine 5 Duree 2 Debut 9 Fin 10
+Job17 Machine 4 Duree 1 Debut 9 Fin 9
+
+GRWC Cmax: 10
+Job20 Machine 5 Duree 9 Debut 0 Fin 8
+Job13 Machine 5 Duree 9 Debut 0 Fin 8
+Job19 Machine 4 Duree 8 Debut 0 Fin 7
+Job4 Machine 4 Duree 9 Debut 0 Fin 8
+Job18 Machine 3 Duree 10 Debut 0 Fin 9
+Job7 Machine 3 Duree 9 Debut 0 Fin 8
+Job6 Machine 3 Duree 6 Debut 0 Fin 5
+Job2 Machine 2 Duree 8 Debut 0 Fin 7
+Job3 Machine 2 Duree 6 Debut 0 Fin 5
+Job9 Machine 1 Duree 6 Debut 0 Fin 5
+Job14 Machine 1 Duree 4 Debut 0 Fin 3
+Job15 Machine 2 Duree 6 Debut 0 Fin 5
+Job11 Machine 2 Duree 5 Debut 6 Fin 10
+Job12 Machine 1 Duree 4 Debut 4 Fin 7
+Job1 Machine 4 Duree 8 Debut 0 Fin 7
+Job16 Machine 1 Duree 3 Debut 6 Fin 8
+Job5 Machine 3 Duree 4 Debut 6 Fin 9
+Job10 Machine 2 Duree 2 Debut 6 Fin 7
+Job8 Machine 1 Duree 5 Debut 4 Fin 8
+Job17 Machine 3 Duree 1 Debut 6 Fin 6
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 12
+Job2 Machine 5 Duree 2 Debut 0 Fin 1
+Job6 Machine 5 Duree 2 Debut 0 Fin 1
+Job19 Machine 5 Duree 2 Debut 0 Fin 1
+Job3 Machine 4 Duree 3 Debut 0 Fin 2
+Job7 Machine 4 Duree 3 Debut 0 Fin 2
+Job8 Machine 4 Duree 3 Debut 0 Fin 2
+Job17 Machine 3 Duree 3 Debut 0 Fin 2
+Job18 Machine 3 Duree 3 Debut 0 Fin 2
+Job9 Machine 2 Duree 4 Debut 0 Fin 3
+Job13 Machine 2 Duree 4 Debut 0 Fin 3
+Job12 Machine 1 Duree 6 Debut 0 Fin 5
+Job14 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 5 Duree 6 Debut 2 Fin 7
+Job16 Machine 4 Duree 6 Debut 3 Fin 8
+Job1 Machine 5 Duree 7 Debut 2 Fin 8
+Job4 Machine 3 Duree 7 Debut 3 Fin 9
+Job5 Machine 4 Duree 8 Debut 3 Fin 10
+Job10 Machine 1 Duree 8 Debut 0 Fin 7
+Job11 Machine 2 Duree 8 Debut 4 Fin 11
+Job20 Machine 3 Duree 10 Debut 3 Fin 12
+
+LPT Cmax: 11
+Job20 Machine 5 Duree 10 Debut 0 Fin 9
+Job5 Machine 5 Duree 8 Debut 0 Fin 7
+Job10 Machine 4 Duree 8 Debut 0 Fin 7
+Job11 Machine 4 Duree 8 Debut 0 Fin 7
+Job1 Machine 3 Duree 7 Debut 0 Fin 6
+Job4 Machine 2 Duree 7 Debut 0 Fin 6
+Job12 Machine 1 Duree 6 Debut 0 Fin 5
+Job14 Machine 3 Duree 6 Debut 0 Fin 5
+Job15 Machine 3 Duree 6 Debut 6 Fin 11
+Job16 Machine 1 Duree 6 Debut 6 Fin 11
+Job9 Machine 2 Duree 4 Debut 0 Fin 3
+Job13 Machine 2 Duree 4 Debut 7 Fin 10
+Job3 Machine 5 Duree 3 Debut 8 Fin 10
+Job7 Machine 2 Duree 3 Debut 4 Fin 6
+Job8 Machine 5 Duree 3 Debut 0 Fin 2
+Job17 Machine 3 Duree 3 Debut 7 Fin 9
+Job18 Machine 2 Duree 3 Debut 7 Fin 9
+Job2 Machine 3 Duree 2 Debut 0 Fin 1
+Job6 Machine 3 Duree 2 Debut 2 Fin 3
+Job19 Machine 4 Duree 2 Debut 8 Fin 9
+
+GRWC Cmax: 10
+Job11 Machine 5 Duree 8 Debut 0 Fin 7
+Job4 Machine 4 Duree 7 Debut 0 Fin 6
+Job12 Machine 3 Duree 6 Debut 0 Fin 5
+Job5 Machine 5 Duree 8 Debut 0 Fin 7
+Job20 Machine 3 Duree 10 Debut 0 Fin 9
+Job15 Machine 2 Duree 6 Debut 0 Fin 5
+Job16 Machine 1 Duree 6 Debut 0 Fin 5
+Job1 Machine 2 Duree 7 Debut 0 Fin 6
+Job10 Machine 4 Duree 8 Debut 0 Fin 7
+Job13 Machine 3 Duree 4 Debut 6 Fin 9
+Job14 Machine 1 Duree 6 Debut 0 Fin 5
+Job3 Machine 2 Duree 3 Debut 6 Fin 8
+Job17 Machine 1 Duree 3 Debut 6 Fin 8
+Job9 Machine 2 Duree 4 Debut 6 Fin 9
+Job18 Machine 2 Duree 3 Debut 0 Fin 2
+Job19 Machine 4 Duree 2 Debut 7 Fin 8
+Job7 Machine 5 Duree 3 Debut 8 Fin 10
+Job8 Machine 2 Duree 3 Debut 3 Fin 5
+Job6 Machine 1 Duree 2 Debut 6 Fin 7
+Job2 Machine 4 Duree 2 Debut 7 Fin 8
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 13
+Job6 Machine 5 Duree 1 Debut 0 Fin 0
+Job12 Machine 4 Duree 1 Debut 0 Fin 0
+Job9 Machine 4 Duree 2 Debut 0 Fin 1
+Job18 Machine 3 Duree 2 Debut 0 Fin 1
+Job3 Machine 2 Duree 3 Debut 0 Fin 2
+Job2 Machine 5 Duree 4 Debut 0 Fin 3
+Job4 Machine 3 Duree 4 Debut 0 Fin 3
+Job10 Machine 1 Duree 4 Debut 0 Fin 3
+Job17 Machine 4 Duree 4 Debut 1 Fin 4
+Job19 Machine 3 Duree 4 Debut 0 Fin 3
+Job5 Machine 2 Duree 5 Debut 0 Fin 4
+Job8 Machine 5 Duree 6 Debut 4 Fin 9
+Job15 Machine 1 Duree 6 Debut 0 Fin 5
+Job16 Machine 5 Duree 7 Debut 1 Fin 7
+Job20 Machine 4 Duree 7 Debut 2 Fin 8
+Job11 Machine 2 Duree 8 Debut 3 Fin 10
+Job14 Machine 3 Duree 8 Debut 4 Fin 11
+Job1 Machine 1 Duree 9 Debut 4 Fin 12
+Job7 Machine 4 Duree 9 Debut 2 Fin 10
+Job13 Machine 2 Duree 9 Debut 5 Fin 13
+
+LPT Cmax: 12
+Job1 Machine 5 Duree 9 Debut 0 Fin 8
+Job7 Machine 4 Duree 9 Debut 0 Fin 8
+Job13 Machine 4 Duree 9 Debut 0 Fin 8
+Job11 Machine 3 Duree 8 Debut 0 Fin 7
+Job14 Machine 2 Duree 8 Debut 0 Fin 7
+Job16 Machine 1 Duree 7 Debut 0 Fin 6
+Job20 Machine 2 Duree 7 Debut 0 Fin 6
+Job8 Machine 1 Duree 6 Debut 7 Fin 12
+Job15 Machine 5 Duree 6 Debut 0 Fin 5
+Job5 Machine 3 Duree 5 Debut 8 Fin 12
+Job2 Machine 3 Duree 4 Debut 8 Fin 11
+Job4 Machine 3 Duree 4 Debut 0 Fin 3
+Job10 Machine 2 Duree 4 Debut 8 Fin 11
+Job17 Machine 5 Duree 4 Debut 9 Fin 12
+Job19 Machine 3 Duree 4 Debut 4 Fin 7
+Job3 Machine 5 Duree 3 Debut 9 Fin 11
+Job9 Machine 4 Duree 2 Debut 9 Fin 10
+Job18 Machine 4 Duree 2 Debut 11 Fin 12
+Job6 Machine 5 Duree 1 Debut 12 Fin 12
+Job12 Machine 1 Duree 1 Debut 0 Fin 0
+
+GRWC Cmax: 12
+Job1 Machine 5 Duree 9 Debut 0 Fin 8
+Job11 Machine 4 Duree 8 Debut 0 Fin 7
+Job14 Machine 3 Duree 8 Debut 0 Fin 7
+Job8 Machine 2 Duree 6 Debut 0 Fin 5
+Job16 Machine 1 Duree 7 Debut 0 Fin 6
+Job13 Machine 4 Duree 9 Debut 0 Fin 8
+Job10 Machine 2 Duree 4 Debut 6 Fin 9
+Job20 Machine 3 Duree 7 Debut 0 Fin 6
+Job7 Machine 2 Duree 9 Debut 0 Fin 8
+Job5 Machine 1 Duree 5 Debut 7 Fin 11
+Job2 Machine 4 Duree 4 Debut 8 Fin 11
+Job3 Machine 3 Duree 3 Debut 8 Fin 10
+Job15 Machine 5 Duree 6 Debut 0 Fin 5
+Job17 Machine 3 Duree 4 Debut 8 Fin 11
+Job19 Machine 5 Duree 4 Debut 9 Fin 12
+Job9 Machine 1 Duree 2 Debut 7 Fin 8
+Job4 Machine 1 Duree 4 Debut 0 Fin 3
+Job18 Machine 5 Duree 2 Debut 9 Fin 10
+Job6 Machine 2 Duree 1 Debut 10 Fin 10
+Job12 Machine 1 Duree 1 Debut 4 Fin 4
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 13
+Job1 Machine 5 Duree 2 Debut 0 Fin 1
+Job6 Machine 5 Duree 2 Debut 0 Fin 1
+Job9 Machine 4 Duree 2 Debut 0 Fin 1
+Job7 Machine 5 Duree 3 Debut 0 Fin 2
+Job3 Machine 3 Duree 4 Debut 0 Fin 3
+Job10 Machine 4 Duree 4 Debut 0 Fin 3
+Job11 Machine 2 Duree 4 Debut 0 Fin 3
+Job19 Machine 1 Duree 4 Debut 0 Fin 3
+Job8 Machine 3 Duree 5 Debut 0 Fin 4
+Job2 Machine 2 Duree 6 Debut 0 Fin 5
+Job5 Machine 5 Duree 6 Debut 2 Fin 7
+Job12 Machine 1 Duree 6 Debut 0 Fin 5
+Job13 Machine 1 Duree 6 Debut 0 Fin 5
+Job4 Machine 4 Duree 7 Debut 2 Fin 8
+Job14 Machine 3 Duree 7 Debut 4 Fin 10
+Job18 Machine 2 Duree 7 Debut 4 Fin 10
+Job16 Machine 5 Duree 8 Debut 2 Fin 9
+Job15 Machine 5 Duree 10 Debut 3 Fin 12
+Job17 Machine 4 Duree 10 Debut 4 Fin 13
+Job20 Machine 1 Duree 10 Debut 4 Fin 13
+
+LPT Cmax: 10
+Job15 Machine 5 Duree 10 Debut 0 Fin 9
+Job17 Machine 5 Duree 10 Debut 0 Fin 9
+Job20 Machine 4 Duree 10 Debut 0 Fin 9
+Job16 Machine 4 Duree 8 Debut 0 Fin 7
+Job4 Machine 3 Duree 7 Debut 0 Fin 6
+Job14 Machine 4 Duree 7 Debut 0 Fin 6
+Job18 Machine 3 Duree 7 Debut 0 Fin 6
+Job2 Machine 2 Duree 6 Debut 0 Fin 5
+Job5 Machine 2 Duree 6 Debut 0 Fin 5
+Job12 Machine 1 Duree 6 Debut 0 Fin 5
+Job13 Machine 1 Duree 6 Debut 0 Fin 5
+Job8 Machine 1 Duree 5 Debut 0 Fin 4
+Job3 Machine 2 Duree 4 Debut 6 Fin 9
+Job10 Machine 2 Duree 4 Debut 6 Fin 9
+Job11 Machine 1 Duree 4 Debut 5 Fin 8
+Job19 Machine 4 Duree 4 Debut 7 Fin 10
+Job7 Machine 1 Duree 3 Debut 6 Fin 8
+Job1 Machine 1 Duree 2 Debut 0 Fin 1
+Job6 Machine 3 Duree 2 Debut 7 Fin 8
+Job9 Machine 3 Duree 2 Debut 9 Fin 10
+
+GRWC Cmax: 10
+Job17 Machine 5 Duree 10 Debut 0 Fin 9
+Job4 Machine 5 Duree 7 Debut 0 Fin 6
+Job16 Machine 4 Duree 8 Debut 0 Fin 7
+Job18 Machine 4 Duree 7 Debut 0 Fin 6
+Job15 Machine 3 Duree 10 Debut 0 Fin 9
+Job14 Machine 3 Duree 7 Debut 0 Fin 6
+Job3 Machine 2 Duree 4 Debut 0 Fin 3
+Job12 Machine 1 Duree 6 Debut 0 Fin 5
+Job2 Machine 1 Duree 6 Debut 0 Fin 5
+Job8 Machine 2 Duree 5 Debut 4 Fin 8
+Job20 Machine 5 Duree 10 Debut 0 Fin 9
+Job13 Machine 2 Duree 6 Debut 0 Fin 5
+Job5 Machine 1 Duree 6 Debut 0 Fin 5
+Job11 Machine 1 Duree 4 Debut 6 Fin 9
+Job19 Machine 4 Duree 4 Debut 7 Fin 10
+Job9 Machine 2 Duree 2 Debut 9 Fin 10
+Job7 Machine 2 Duree 3 Debut 6 Fin 8
+Job6 Machine 3 Duree 2 Debut 7 Fin 8
+Job10 Machine 1 Duree 4 Debut 6 Fin 9
+Job1 Machine 4 Duree 2 Debut 0 Fin 1
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 12
+Job8 Machine 5 Duree 1 Debut 0 Fin 0
+Job16 Machine 5 Duree 1 Debut 0 Fin 0
+Job1 Machine 4 Duree 2 Debut 0 Fin 1
+Job6 Machine 4 Duree 2 Debut 0 Fin 1
+Job12 Machine 4 Duree 2 Debut 0 Fin 1
+Job7 Machine 3 Duree 3 Debut 0 Fin 2
+Job18 Machine 2 Duree 3 Debut 0 Fin 2
+Job5 Machine 3 Duree 4 Debut 0 Fin 3
+Job19 Machine 1 Duree 4 Debut 0 Fin 3
+Job20 Machine 2 Duree 4 Debut 0 Fin 3
+Job2 Machine 1 Duree 5 Debut 0 Fin 4
+Job4 Machine 5 Duree 5 Debut 1 Fin 5
+Job13 Machine 3 Duree 5 Debut 0 Fin 4
+Job17 Machine 5 Duree 6 Debut 1 Fin 6
+Job3 Machine 4 Duree 7 Debut 2 Fin 8
+Job10 Machine 4 Duree 8 Debut 2 Fin 9
+Job11 Machine 2 Duree 8 Debut 3 Fin 10
+Job14 Machine 3 Duree 8 Debut 4 Fin 11
+Job15 Machine 2 Duree 8 Debut 4 Fin 11
+Job9 Machine 3 Duree 10 Debut 3 Fin 12
+
+LPT Cmax: 9
+Job9 Machine 5 Duree 10 Debut 0 Fin 9
+Job10 Machine 5 Duree 8 Debut 0 Fin 7
+Job11 Machine 4 Duree 8 Debut 0 Fin 7
+Job14 Machine 4 Duree 8 Debut 0 Fin 7
+Job15 Machine 3 Duree 8 Debut 0 Fin 7
+Job3 Machine 3 Duree 7 Debut 0 Fin 6
+Job17 Machine 2 Duree 6 Debut 0 Fin 5
+Job2 Machine 2 Duree 5 Debut 0 Fin 4
+Job4 Machine 1 Duree 5 Debut 0 Fin 4
+Job13 Machine 1 Duree 5 Debut 5 Fin 9
+Job5 Machine 3 Duree 4 Debut 0 Fin 3
+Job19 Machine 1 Duree 4 Debut 0 Fin 3
+Job20 Machine 3 Duree 4 Debut 4 Fin 7
+Job7 Machine 1 Duree 3 Debut 4 Fin 6
+Job18 Machine 2 Duree 3 Debut 6 Fin 8
+Job1 Machine 3 Duree 2 Debut 7 Fin 8
+Job6 Machine 5 Duree 2 Debut 8 Fin 9
+Job12 Machine 5 Duree 2 Debut 0 Fin 1
+Job8 Machine 4 Duree 1 Debut 8 Fin 8
+Job16 Machine 1 Duree 1 Debut 4 Fin 4
+
+GRWC Cmax: 9
+Job10 Machine 5 Duree 8 Debut 0 Fin 7
+Job11 Machine 4 Duree 8 Debut 0 Fin 7
+Job17 Machine 4 Duree 6 Debut 0 Fin 5
+Job3 Machine 3 Duree 7 Debut 0 Fin 6
+Job9 Machine 5 Duree 10 Debut 0 Fin 9
+Job4 Machine 3 Duree 5 Debut 0 Fin 4
+Job14 Machine 2 Duree 8 Debut 0 Fin 7
+Job18 Machine 2 Duree 3 Debut 0 Fin 2
+Job19 Machine 1 Duree 4 Debut 0 Fin 3
+Job15 Machine 1 Duree 8 Debut 0 Fin 7
+Job13 Machine 2 Duree 5 Debut 3 Fin 7
+Job2 Machine 1 Duree 5 Debut 4 Fin 8
+Job5 Machine 3 Duree 4 Debut 5 Fin 8
+Job20 Machine 4 Duree 4 Debut 6 Fin 9
+Job7 Machine 3 Duree 3 Debut 7 Fin 9
+Job1 Machine 1 Duree 2 Debut 4 Fin 5
+Job6 Machine 5 Duree 2 Debut 8 Fin 9
+Job8 Machine 4 Duree 1 Debut 8 Fin 8
+Job12 Machine 5 Duree 2 Debut 0 Fin 1
+Job16 Machine 1 Duree 1 Debut 0 Fin 0
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 16
+Job10 Machine 5 Duree 1 Debut 0 Fin 0
+Job13 Machine 4 Duree 1 Debut 0 Fin 0
+Job14 Machine 3 Duree 1 Debut 0 Fin 0
+Job12 Machine 4 Duree 3 Debut 0 Fin 2
+Job1 Machine 5 Duree 4 Debut 0 Fin 3
+Job7 Machine 3 Duree 4 Debut 0 Fin 3
+Job16 Machine 2 Duree 4 Debut 0 Fin 3
+Job20 Machine 2 Duree 4 Debut 0 Fin 3
+Job9 Machine 1 Duree 5 Debut 0 Fin 4
+Job19 Machine 1 Duree 5 Debut 0 Fin 4
+Job2 Machine 5 Duree 6 Debut 1 Fin 6
+Job18 Machine 4 Duree 6 Debut 1 Fin 6
+Job3 Machine 3 Duree 7 Debut 1 Fin 7
+Job5 Machine 4 Duree 7 Debut 3 Fin 9
+Job15 Machine 3 Duree 7 Debut 4 Fin 10
+Job4 Machine 2 Duree 8 Debut 4 Fin 11
+Job8 Machine 1 Duree 9 Debut 5 Fin 13
+Job6 Machine 5 Duree 10 Debut 4 Fin 13
+Job11 Machine 2 Duree 10 Debut 4 Fin 13
+Job17 Machine 5 Duree 10 Debut 7 Fin 16
+
+LPT Cmax: 13
+Job6 Machine 5 Duree 10 Debut 0 Fin 9
+Job11 Machine 5 Duree 10 Debut 0 Fin 9
+Job17 Machine 4 Duree 10 Debut 0 Fin 9
+Job8 Machine 3 Duree 9 Debut 0 Fin 8
+Job4 Machine 2 Duree 8 Debut 0 Fin 7
+Job3 Machine 4 Duree 7 Debut 0 Fin 6
+Job5 Machine 1 Duree 7 Debut 0 Fin 6
+Job15 Machine 1 Duree 7 Debut 7 Fin 13
+Job2 Machine 1 Duree 6 Debut 0 Fin 5
+Job18 Machine 3 Duree 6 Debut 0 Fin 5
+Job9 Machine 2 Duree 5 Debut 8 Fin 12
+Job19 Machine 2 Duree 5 Debut 0 Fin 4
+Job1 Machine 3 Duree 4 Debut 6 Fin 9
+Job7 Machine 2 Duree 4 Debut 8 Fin 11
+Job16 Machine 3 Duree 4 Debut 9 Fin 12
+Job20 Machine 5 Duree 4 Debut 0 Fin 3
+Job12 Machine 4 Duree 3 Debut 7 Fin 9
+Job10 Machine 5 Duree 1 Debut 10 Fin 10
+Job13 Machine 4 Duree 1 Debut 10 Fin 10
+Job14 Machine 2 Duree 1 Debut 5 Fin 5
+
+GRWC Cmax: 11
+Job4 Machine 5 Duree 8 Debut 0 Fin 7
+Job15 Machine 4 Duree 7 Debut 0 Fin 6
+Job8 Machine 3 Duree 9 Debut 0 Fin 8
+Job6 Machine 5 Duree 10 Debut 0 Fin 9
+Job11 Machine 4 Duree 10 Debut 0 Fin 9
+Job17 Machine 2 Duree 10 Debut 0 Fin 9
+Job2 Machine 2 Duree 6 Debut 0 Fin 5
+Job5 Machine 1 Duree 7 Debut 0 Fin 6
+Job9 Machine 1 Duree 5 Debut 0 Fin 4
+Job3 Machine 3 Duree 7 Debut 0 Fin 6
+Job18 Machine 1 Duree 6 Debut 5 Fin 10
+Job16 Machine 1 Duree 4 Debut 7 Fin 10
+Job19 Machine 4 Duree 5 Debut 7 Fin 11
+Job1 Machine 2 Duree 4 Debut 6 Fin 9
+Job7 Machine 5 Duree 4 Debut 8 Fin 11
+Job20 Machine 3 Duree 4 Debut 7 Fin 10
+Job12 Machine 3 Duree 3 Debut 9 Fin 11
+Job13 Machine 2 Duree 1 Debut 10 Fin 10
+Job10 Machine 2 Duree 1 Debut 11 Fin 11
+Job14 Machine 5 Duree 1 Debut 10 Fin 10
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 14
+Job13 Machine 5 Duree 1 Debut 0 Fin 0
+Job10 Machine 5 Duree 2 Debut 0 Fin 1
+Job17 Machine 4 Duree 2 Debut 0 Fin 1
+Job18 Machine 3 Duree 2 Debut 0 Fin 1
+Job7 Machine 4 Duree 3 Debut 0 Fin 2
+Job4 Machine 2 Duree 4 Debut 0 Fin 3
+Job1 Machine 3 Duree 5 Debut 0 Fin 4
+Job2 Machine 2 Duree 5 Debut 0 Fin 4
+Job9 Machine 1 Duree 5 Debut 0 Fin 4
+Job19 Machine 1 Duree 5 Debut 0 Fin 4
+Job14 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 5 Duree 6 Debut 2 Fin 7
+Job16 Machine 1 Duree 6 Debut 0 Fin 5
+Job5 Machine 4 Duree 7 Debut 2 Fin 8
+Job12 Machine 5 Duree 7 Debut 1 Fin 7
+Job3 Machine 3 Duree 9 Debut 2 Fin 10
+Job11 Machine 2 Duree 9 Debut 4 Fin 12
+Job6 Machine 4 Duree 10 Debut 2 Fin 11
+Job8 Machine 3 Duree 10 Debut 5 Fin 14
+Job20 Machine 3 Duree 10 Debut 2 Fin 11
+
+LPT Cmax: 9
+Job6 Machine 5 Duree 10 Debut 0 Fin 9
+Job8 Machine 5 Duree 10 Debut 0 Fin 9
+Job20 Machine 5 Duree 10 Debut 0 Fin 9
+Job3 Machine 4 Duree 9 Debut 0 Fin 8
+Job11 Machine 3 Duree 9 Debut 0 Fin 8
+Job5 Machine 4 Duree 7 Debut 0 Fin 6
+Job12 Machine 2 Duree 7 Debut 0 Fin 6
+Job14 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 1 Duree 6 Debut 0 Fin 5
+Job16 Machine 5 Duree 6 Debut 0 Fin 5
+Job1 Machine 2 Duree 5 Debut 0 Fin 4
+Job2 Machine 3 Duree 5 Debut 0 Fin 4
+Job9 Machine 1 Duree 5 Debut 0 Fin 4
+Job19 Machine 3 Duree 5 Debut 5 Fin 9
+Job4 Machine 2 Duree 4 Debut 6 Fin 9
+Job7 Machine 1 Duree 3 Debut 5 Fin 7
+Job10 Machine 1 Duree 2 Debut 6 Fin 7
+Job17 Machine 4 Duree 2 Debut 7 Fin 8
+Job18 Machine 2 Duree 2 Debut 7 Fin 8
+Job13 Machine 2 Duree 1 Debut 5 Fin 5
+
+GRWC Cmax: 9
+Job11 Machine 5 Duree 9 Debut 0 Fin 8
+Job5 Machine 4 Duree 7 Debut 0 Fin 6
+Job15 Machine 3 Duree 6 Debut 0 Fin 5
+Job9 Machine 2 Duree 5 Debut 0 Fin 4
+Job8 Machine 3 Duree 10 Debut 0 Fin 9
+Job12 Machine 5 Duree 7 Debut 0 Fin 6
+Job6 Machine 4 Duree 10 Debut 0 Fin 9
+Job14 Machine 2 Duree 6 Debut 0 Fin 5
+Job3 Machine 1 Duree 9 Debut 0 Fin 8
+Job4 Machine 1 Duree 4 Debut 0 Fin 3
+Job20 Machine 4 Duree 10 Debut 0 Fin 9
+Job2 Machine 1 Duree 5 Debut 4 Fin 8
+Job16 Machine 1 Duree 6 Debut 4 Fin 9
+Job1 Machine 2 Duree 5 Debut 5 Fin 9
+Job19 Machine 2 Duree 5 Debut 0 Fin 4
+Job7 Machine 1 Duree 3 Debut 4 Fin 6
+Job18 Machine 2 Duree 2 Debut 6 Fin 7
+Job17 Machine 3 Duree 2 Debut 6 Fin 7
+Job10 Machine 4 Duree 2 Debut 7 Fin 8
+Job13 Machine 2 Duree 1 Debut 5 Fin 5
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 13
+Job5 Machine 5 Duree 1 Debut 0 Fin 0
+Job9 Machine 5 Duree 1 Debut 0 Fin 0
+Job14 Machine 4 Duree 1 Debut 0 Fin 0
+Job2 Machine 4 Duree 2 Debut 0 Fin 1
+Job16 Machine 3 Duree 2 Debut 0 Fin 1
+Job19 Machine 3 Duree 3 Debut 0 Fin 2
+Job1 Machine 2 Duree 4 Debut 0 Fin 3
+Job15 Machine 2 Duree 4 Debut 0 Fin 3
+Job8 Machine 1 Duree 5 Debut 0 Fin 4
+Job6 Machine 1 Duree 6 Debut 0 Fin 5
+Job12 Machine 5 Duree 6 Debut 1 Fin 6
+Job3 Machine 5 Duree 7 Debut 0 Fin 6
+Job4 Machine 4 Duree 7 Debut 1 Fin 7
+Job17 Machine 5 Duree 7 Debut 1 Fin 7
+Job11 Machine 4 Duree 8 Debut 2 Fin 9
+Job7 Machine 4 Duree 9 Debut 1 Fin 9
+Job13 Machine 3 Duree 9 Debut 2 Fin 10
+Job18 Machine 3 Duree 9 Debut 3 Fin 11
+Job20 Machine 2 Duree 9 Debut 4 Fin 12
+Job10 Machine 2 Duree 10 Debut 4 Fin 13
+
+LPT Cmax: 9
+Job10 Machine 5 Duree 10 Debut 0 Fin 9
+Job7 Machine 5 Duree 9 Debut 0 Fin 8
+Job13 Machine 4 Duree 9 Debut 0 Fin 8
+Job18 Machine 4 Duree 9 Debut 0 Fin 8
+Job20 Machine 3 Duree 9 Debut 0 Fin 8
+Job11 Machine 5 Duree 8 Debut 0 Fin 7
+Job3 Machine 3 Duree 7 Debut 0 Fin 6
+Job4 Machine 2 Duree 7 Debut 0 Fin 6
+Job17 Machine 2 Duree 7 Debut 0 Fin 6
+Job6 Machine 1 Duree 6 Debut 0 Fin 5
+Job12 Machine 3 Duree 6 Debut 0 Fin 5
+Job8 Machine 1 Duree 5 Debut 0 Fin 4
+Job1 Machine 1 Duree 4 Debut 6 Fin 9
+Job15 Machine 2 Duree 4 Debut 0 Fin 3
+Job19 Machine 3 Duree 3 Debut 7 Fin 9
+Job2 Machine 1 Duree 2 Debut 5 Fin 6
+Job16 Machine 2 Duree 2 Debut 7 Fin 8
+Job5 Machine 2 Duree 1 Debut 4 Fin 4
+Job9 Machine 2 Duree 1 Debut 5 Fin 5
+Job14 Machine 4 Duree 1 Debut 9 Fin 9
+
+GRWC Cmax: 12
+Job18 Machine 5 Duree 9 Debut 0 Fin 8
+Job20 Machine 5 Duree 9 Debut 0 Fin 8
+Job10 Machine 4 Duree 10 Debut 0 Fin 9
+Job11 Machine 4 Duree 8 Debut 0 Fin 7
+Job12 Machine 3 Duree 6 Debut 0 Fin 5
+Job17 Machine 3 Duree 7 Debut 0 Fin 6
+Job1 Machine 2 Duree 4 Debut 0 Fin 3
+Job4 Machine 2 Duree 7 Debut 0 Fin 6
+Job13 Machine 3 Duree 9 Debut 0 Fin 8
+Job8 Machine 1 Duree 5 Debut 0 Fin 4
+Job6 Machine 1 Duree 6 Debut 0 Fin 5
+Job3 Machine 4 Duree 7 Debut 0 Fin 6
+Job15 Machine 2 Duree 4 Debut 4 Fin 7
+Job7 Machine 2 Duree 9 Debut 4 Fin 12
+Job19 Machine 1 Duree 3 Debut 6 Fin 8
+Job16 Machine 3 Duree 2 Debut 7 Fin 8
+Job14 Machine 2 Duree 1 Debut 8 Fin 8
+Job2 Machine 1 Duree 2 Debut 5 Fin 6
+Job5 Machine 3 Duree 1 Debut 6 Fin 6
+Job9 Machine 3 Duree 1 Debut 7 Fin 7
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 11
+Job4 Machine 5 Duree 1 Debut 0 Fin 0
+Job8 Machine 5 Duree 1 Debut 0 Fin 0
+Job12 Machine 4 Duree 1 Debut 0 Fin 0
+Job3 Machine 4 Duree 2 Debut 0 Fin 1
+Job5 Machine 3 Duree 2 Debut 0 Fin 1
+Job9 Machine 3 Duree 2 Debut 0 Fin 1
+Job10 Machine 2 Duree 2 Debut 0 Fin 1
+Job15 Machine 2 Duree 2 Debut 0 Fin 1
+Job18 Machine 1 Duree 2 Debut 0 Fin 1
+Job20 Machine 2 Duree 2 Debut 0 Fin 1
+Job11 Machine 1 Duree 3 Debut 0 Fin 2
+Job6 Machine 5 Duree 5 Debut 1 Fin 5
+Job14 Machine 5 Duree 5 Debut 1 Fin 5
+Job16 Machine 4 Duree 5 Debut 1 Fin 5
+Job1 Machine 4 Duree 7 Debut 2 Fin 8
+Job7 Machine 3 Duree 7 Debut 2 Fin 8
+Job19 Machine 3 Duree 7 Debut 0 Fin 6
+Job2 Machine 5 Duree 8 Debut 1 Fin 8
+Job17 Machine 2 Duree 9 Debut 2 Fin 10
+Job13 Machine 2 Duree 10 Debut 2 Fin 11
+
+LPT Cmax: 9
+Job13 Machine 5 Duree 10 Debut 0 Fin 9
+Job17 Machine 5 Duree 9 Debut 0 Fin 8
+Job2 Machine 4 Duree 8 Debut 0 Fin 7
+Job1 Machine 4 Duree 7 Debut 0 Fin 6
+Job7 Machine 3 Duree 7 Debut 0 Fin 6
+Job19 Machine 3 Duree 7 Debut 0 Fin 6
+Job6 Machine 3 Duree 5 Debut 0 Fin 4
+Job14 Machine 2 Duree 5 Debut 0 Fin 4
+Job16 Machine 2 Duree 5 Debut 0 Fin 4
+Job11 Machine 2 Duree 3 Debut 0 Fin 2
+Job3 Machine 1 Duree 2 Debut 0 Fin 1
+Job5 Machine 1 Duree 2 Debut 0 Fin 1
+Job9 Machine 1 Duree 2 Debut 2 Fin 3
+Job10 Machine 1 Duree 2 Debut 2 Fin 3
+Job15 Machine 1 Duree 2 Debut 2 Fin 3
+Job18 Machine 1 Duree 2 Debut 4 Fin 5
+Job20 Machine 1 Duree 2 Debut 4 Fin 5
+Job4 Machine 2 Duree 1 Debut 5 Fin 5
+Job8 Machine 2 Duree 1 Debut 3 Fin 3
+Job12 Machine 2 Duree 1 Debut 5 Fin 5
+
+GRWC Cmax: 9
+Job13 Machine 5 Duree 10 Debut 0 Fin 9
+Job17 Machine 5 Duree 9 Debut 0 Fin 8
+Job1 Machine 4 Duree 7 Debut 0 Fin 6
+Job7 Machine 3 Duree 7 Debut 0 Fin 6
+Job14 Machine 3 Duree 5 Debut 0 Fin 4
+Job19 Machine 4 Duree 7 Debut 0 Fin 6
+Job2 Machine 2 Duree 8 Debut 0 Fin 7
+Job6 Machine 2 Duree 5 Debut 0 Fin 4
+Job16 Machine 2 Duree 5 Debut 0 Fin 4
+Job11 Machine 1 Duree 3 Debut 0 Fin 2
+Job20 Machine 1 Duree 2 Debut 3 Fin 4
+Job18 Machine 1 Duree 2 Debut 0 Fin 1
+Job3 Machine 1 Duree 2 Debut 3 Fin 4
+Job5 Machine 3 Duree 2 Debut 5 Fin 6
+Job9 Machine 2 Duree 2 Debut 5 Fin 6
+Job10 Machine 2 Duree 2 Debut 5 Fin 6
+Job15 Machine 2 Duree 2 Debut 5 Fin 6
+Job12 Machine 1 Duree 1 Debut 5 Fin 5
+Job8 Machine 1 Duree 1 Debut 6 Fin 6
+Job4 Machine 1 Duree 1 Debut 5 Fin 5
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 15
+Job4 Machine 5 Duree 3 Debut 0 Fin 2
+Job6 Machine 5 Duree 3 Debut 0 Fin 2
+Job11 Machine 4 Duree 4 Debut 0 Fin 3
+Job17 Machine 4 Duree 4 Debut 0 Fin 3
+Job5 Machine 3 Duree 5 Debut 0 Fin 4
+Job2 Machine 4 Duree 6 Debut 0 Fin 5
+Job16 Machine 2 Duree 6 Debut 0 Fin 5
+Job18 Machine 3 Duree 6 Debut 0 Fin 5
+Job19 Machine 1 Duree 6 Debut 0 Fin 5
+Job7 Machine 1 Duree 7 Debut 0 Fin 6
+Job9 Machine 2 Duree 7 Debut 0 Fin 6
+Job15 Machine 5 Duree 7 Debut 3 Fin 9
+Job12 Machine 4 Duree 8 Debut 4 Fin 11
+Job20 Machine 5 Duree 8 Debut 3 Fin 10
+Job1 Machine 5 Duree 9 Debut 3 Fin 11
+Job3 Machine 3 Duree 9 Debut 5 Fin 13
+Job8 Machine 4 Duree 9 Debut 6 Fin 14
+Job10 Machine 4 Duree 10 Debut 6 Fin 15
+Job13 Machine 3 Duree 10 Debut 6 Fin 15
+Job14 Machine 2 Duree 10 Debut 6 Fin 15
+
+LPT Cmax: 12
+Job10 Machine 5 Duree 10 Debut 0 Fin 9
+Job13 Machine 5 Duree 10 Debut 0 Fin 9
+Job14 Machine 4 Duree 10 Debut 0 Fin 9
+Job1 Machine 5 Duree 9 Debut 0 Fin 8
+Job3 Machine 4 Duree 9 Debut 0 Fin 8
+Job8 Machine 4 Duree 9 Debut 0 Fin 8
+Job12 Machine 3 Duree 8 Debut 0 Fin 7
+Job20 Machine 2 Duree 8 Debut 0 Fin 7
+Job7 Machine 2 Duree 7 Debut 0 Fin 6
+Job9 Machine 4 Duree 7 Debut 0 Fin 6
+Job15 Machine 1 Duree 7 Debut 0 Fin 6
+Job2 Machine 2 Duree 6 Debut 7 Fin 12
+Job16 Machine 1 Duree 6 Debut 0 Fin 5
+Job18 Machine 3 Duree 6 Debut 0 Fin 5
+Job19 Machine 1 Duree 6 Debut 6 Fin 11
+Job5 Machine 1 Duree 5 Debut 7 Fin 11
+Job11 Machine 3 Duree 4 Debut 8 Fin 11
+Job17 Machine 2 Duree 4 Debut 8 Fin 11
+Job4 Machine 4 Duree 3 Debut 9 Fin 11
+Job6 Machine 5 Duree 3 Debut 10 Fin 12
+
+GRWC Cmax: 12
+Job1 Machine 5 Duree 9 Debut 0 Fin 8
+Job12 Machine 5 Duree 8 Debut 0 Fin 7
+Job16 Machine 4 Duree 6 Debut 0 Fin 5
+Job10 Machine 4 Duree 10 Debut 0 Fin 9
+Job3 Machine 3 Duree 9 Debut 0 Fin 8
+Job7 Machine 3 Duree 7 Debut 0 Fin 6
+Job13 Machine 2 Duree 10 Debut 0 Fin 9
+Job14 Machine 1 Duree 10 Debut 0 Fin 9
+Job20 Machine 2 Duree 8 Debut 0 Fin 7
+Job8 Machine 4 Duree 9 Debut 0 Fin 8
+Job19 Machine 1 Duree 6 Debut 0 Fin 5
+Job2 Machine 1 Duree 6 Debut 6 Fin 11
+Job15 Machine 4 Duree 7 Debut 6 Fin 12
+Job11 Machine 5 Duree 4 Debut 8 Fin 11
+Job5 Machine 3 Duree 5 Debut 7 Fin 11
+Job4 Machine 2 Duree 3 Debut 8 Fin 10
+Job6 Machine 5 Duree 3 Debut 9 Fin 11
+Job9 Machine 5 Duree 7 Debut 0 Fin 6
+Job18 Machine 1 Duree 6 Debut 0 Fin 5
+Job17 Machine 1 Duree 4 Debut 6 Fin 9
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 14
+Job5 Machine 5 Duree 1 Debut 0 Fin 0
+Job16 Machine 4 Duree 1 Debut 0 Fin 0
+Job13 Machine 4 Duree 2 Debut 0 Fin 1
+Job15 Machine 5 Duree 2 Debut 0 Fin 1
+Job3 Machine 4 Duree 3 Debut 0 Fin 2
+Job7 Machine 3 Duree 3 Debut 0 Fin 2
+Job2 Machine 3 Duree 4 Debut 0 Fin 3
+Job19 Machine 2 Duree 4 Debut 0 Fin 3
+Job1 Machine 1 Duree 5 Debut 0 Fin 4
+Job20 Machine 5 Duree 5 Debut 1 Fin 5
+Job18 Machine 1 Duree 6 Debut 0 Fin 5
+Job4 Machine 4 Duree 7 Debut 2 Fin 8
+Job6 Machine 2 Duree 7 Debut 0 Fin 6
+Job11 Machine 5 Duree 7 Debut 2 Fin 8
+Job8 Machine 4 Duree 9 Debut 3 Fin 11
+Job10 Machine 3 Duree 9 Debut 3 Fin 11
+Job12 Machine 3 Duree 9 Debut 4 Fin 12
+Job14 Machine 2 Duree 9 Debut 4 Fin 12
+Job9 Machine 2 Duree 10 Debut 4 Fin 13
+Job17 Machine 1 Duree 10 Debut 5 Fin 14
+
+LPT Cmax: 10
+Job9 Machine 5 Duree 10 Debut 0 Fin 9
+Job17 Machine 5 Duree 10 Debut 0 Fin 9
+Job8 Machine 4 Duree 9 Debut 0 Fin 8
+Job10 Machine 5 Duree 9 Debut 0 Fin 8
+Job12 Machine 4 Duree 9 Debut 0 Fin 8
+Job14 Machine 3 Duree 9 Debut 0 Fin 8
+Job4 Machine 2 Duree 7 Debut 0 Fin 6
+Job6 Machine 2 Duree 7 Debut 0 Fin 6
+Job11 Machine 3 Duree 7 Debut 0 Fin 6
+Job18 Machine 1 Duree 6 Debut 0 Fin 5
+Job1 Machine 1 Duree 5 Debut 0 Fin 4
+Job20 Machine 1 Duree 5 Debut 5 Fin 9
+Job2 Machine 3 Duree 4 Debut 7 Fin 10
+Job19 Machine 2 Duree 4 Debut 7 Fin 10
+Job3 Machine 2 Duree 3 Debut 7 Fin 9
+Job7 Machine 1 Duree 3 Debut 6 Fin 8
+Job13 Machine 4 Duree 2 Debut 9 Fin 10
+Job15 Machine 3 Duree 2 Debut 0 Fin 1
+Job5 Machine 5 Duree 1 Debut 9 Fin 9
+Job16 Machine 4 Duree 1 Debut 9 Fin 9
+
+GRWC Cmax: 11
+Job12 Machine 5 Duree 9 Debut 0 Fin 8
+Job8 Machine 4 Duree 9 Debut 0 Fin 8
+Job10 Machine 4 Duree 9 Debut 0 Fin 8
+Job4 Machine 3 Duree 7 Debut 0 Fin 6
+Job14 Machine 2 Duree 9 Debut 0 Fin 8
+Job17 Machine 5 Duree 10 Debut 0 Fin 9
+Job6 Machine 2 Duree 7 Debut 0 Fin 6
+Job19 Machine 1 Duree 4 Debut 0 Fin 3
+Job18 Machine 3 Duree 6 Debut 0 Fin 5
+Job11 Machine 1 Duree 7 Debut 4 Fin 10
+Job1 Machine 3 Duree 5 Debut 6 Fin 10
+Job7 Machine 1 Duree 3 Debut 0 Fin 2
+Job9 Machine 2 Duree 10 Debut 0 Fin 9
+Job20 Machine 3 Duree 5 Debut 7 Fin 11
+Job2 Machine 2 Duree 4 Debut 7 Fin 10
+Job3 Machine 5 Duree 3 Debut 9 Fin 11
+Job13 Machine 1 Duree 2 Debut 3 Fin 4
+Job15 Machine 1 Duree 2 Debut 5 Fin 6
+Job5 Machine 1 Duree 1 Debut 7 Fin 7
+Job16 Machine 1 Duree 1 Debut 8 Fin 8
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 16
+Job18 Machine 5 Duree 2 Debut 0 Fin 1
+Job4 Machine 5 Duree 3 Debut 0 Fin 2
+Job8 Machine 4 Duree 3 Debut 0 Fin 2
+Job5 Machine 5 Duree 4 Debut 0 Fin 3
+Job11 Machine 3 Duree 4 Debut 0 Fin 3
+Job16 Machine 2 Duree 4 Debut 0 Fin 3
+Job1 Machine 1 Duree 5 Debut 0 Fin 4
+Job3 Machine 4 Duree 5 Debut 0 Fin 4
+Job19 Machine 2 Duree 5 Debut 0 Fin 4
+Job2 Machine 3 Duree 6 Debut 0 Fin 5
+Job20 Machine 5 Duree 6 Debut 3 Fin 8
+Job6 Machine 4 Duree 7 Debut 3 Fin 9
+Job9 Machine 5 Duree 7 Debut 4 Fin 10
+Job15 Machine 3 Duree 7 Debut 4 Fin 10
+Job12 Machine 1 Duree 8 Debut 0 Fin 7
+Job17 Machine 3 Duree 8 Debut 0 Fin 7
+Job7 Machine 2 Duree 9 Debut 4 Fin 12
+Job10 Machine 2 Duree 9 Debut 5 Fin 13
+Job13 Machine 1 Duree 9 Debut 5 Fin 13
+Job14 Machine 3 Duree 9 Debut 8 Fin 16
+
+LPT Cmax: 12
+Job7 Machine 5 Duree 9 Debut 0 Fin 8
+Job10 Machine 4 Duree 9 Debut 0 Fin 8
+Job13 Machine 3 Duree 9 Debut 0 Fin 8
+Job14 Machine 4 Duree 9 Debut 0 Fin 8
+Job12 Machine 5 Duree 8 Debut 0 Fin 7
+Job17 Machine 3 Duree 8 Debut 0 Fin 7
+Job6 Machine 2 Duree 7 Debut 0 Fin 6
+Job9 Machine 2 Duree 7 Debut 0 Fin 6
+Job15 Machine 1 Duree 7 Debut 0 Fin 6
+Job2 Machine 2 Duree 6 Debut 0 Fin 5
+Job20 Machine 2 Duree 6 Debut 7 Fin 12
+Job1 Machine 2 Duree 5 Debut 7 Fin 11
+Job3 Machine 2 Duree 5 Debut 0 Fin 4
+Job19 Machine 1 Duree 5 Debut 7 Fin 11
+Job5 Machine 1 Duree 4 Debut 0 Fin 3
+Job11 Machine 5 Duree 4 Debut 9 Fin 12
+Job16 Machine 4 Duree 4 Debut 9 Fin 12
+Job4 Machine 1 Duree 3 Debut 4 Fin 6
+Job8 Machine 3 Duree 3 Debut 9 Fin 11
+Job18 Machine 2 Duree 2 Debut 5 Fin 6
+
+GRWC Cmax: 13
+Job13 Machine 5 Duree 9 Debut 0 Fin 8
+Job15 Machine 4 Duree 7 Debut 0 Fin 6
+Job7 Machine 3 Duree 9 Debut 0 Fin 8
+Job14 Machine 3 Duree 9 Debut 0 Fin 8
+Job10 Machine 2 Duree 9 Debut 0 Fin 8
+Job9 Machine 2 Duree 7 Debut 0 Fin 6
+Job20 Machine 1 Duree 6 Debut 0 Fin 5
+Job6 Machine 1 Duree 7 Debut 6 Fin 12
+Job12 Machine 5 Duree 8 Debut 0 Fin 7
+Job16 Machine 4 Duree 4 Debut 7 Fin 10
+Job1 Machine 2 Duree 5 Debut 7 Fin 11
+Job19 Machine 5 Duree 5 Debut 9 Fin 13
+Job11 Machine 3 Duree 4 Debut 9 Fin 12
+Job17 Machine 3 Duree 8 Debut 0 Fin 7
+Job8 Machine 2 Duree 3 Debut 9 Fin 11
+Job2 Machine 4 Duree 6 Debut 0 Fin 5
+Job3 Machine 1 Duree 5 Debut 0 Fin 4
+Job5 Machine 1 Duree 4 Debut 0 Fin 3
+Job4 Machine 1 Duree 3 Debut 4 Fin 6
+Job18 Machine 1 Duree 2 Debut 5 Fin 6
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 15
+Job3 Machine 5 Duree 1 Debut 0 Fin 0
+Job14 Machine 5 Duree 1 Debut 0 Fin 0
+Job4 Machine 5 Duree 2 Debut 0 Fin 1
+Job7 Machine 4 Duree 2 Debut 0 Fin 1
+Job16 Machine 4 Duree 2 Debut 0 Fin 1
+Job1 Machine 3 Duree 3 Debut 0 Fin 2
+Job17 Machine 3 Duree 3 Debut 0 Fin 2
+Job6 Machine 2 Duree 4 Debut 0 Fin 3
+Job19 Machine 1 Duree 5 Debut 0 Fin 4
+Job20 Machine 4 Duree 5 Debut 0 Fin 4
+Job2 Machine 5 Duree 6 Debut 1 Fin 6
+Job5 Machine 4 Duree 6 Debut 2 Fin 7
+Job9 Machine 2 Duree 6 Debut 0 Fin 5
+Job11 Machine 2 Duree 7 Debut 0 Fin 6
+Job10 Machine 3 Duree 8 Debut 3 Fin 10
+Job12 Machine 5 Duree 8 Debut 2 Fin 9
+Job13 Machine 3 Duree 8 Debut 3 Fin 10
+Job8 Machine 1 Duree 9 Debut 5 Fin 13
+Job15 Machine 4 Duree 10 Debut 5 Fin 14
+Job18 Machine 2 Duree 10 Debut 6 Fin 15
+
+LPT Cmax: 11
+Job15 Machine 5 Duree 10 Debut 0 Fin 9
+Job18 Machine 5 Duree 10 Debut 0 Fin 9
+Job8 Machine 4 Duree 9 Debut 0 Fin 8
+Job10 Machine 3 Duree 8 Debut 0 Fin 7
+Job12 Machine 4 Duree 8 Debut 0 Fin 7
+Job13 Machine 3 Duree 8 Debut 0 Fin 7
+Job11 Machine 4 Duree 7 Debut 0 Fin 6
+Job2 Machine 2 Duree 6 Debut 0 Fin 5
+Job5 Machine 1 Duree 6 Debut 0 Fin 5
+Job9 Machine 2 Duree 6 Debut 0 Fin 5
+Job19 Machine 2 Duree 5 Debut 6 Fin 10
+Job20 Machine 1 Duree 5 Debut 6 Fin 10
+Job6 Machine 4 Duree 4 Debut 8 Fin 11
+Job1 Machine 2 Duree 3 Debut 6 Fin 8
+Job17 Machine 1 Duree 3 Debut 6 Fin 8
+Job4 Machine 3 Duree 2 Debut 8 Fin 9
+Job7 Machine 4 Duree 2 Debut 9 Fin 10
+Job16 Machine 3 Duree 2 Debut 8 Fin 9
+Job3 Machine 1 Duree 1 Debut 0 Fin 0
+Job14 Machine 1 Duree 1 Debut 9 Fin 9
+
+GRWC Cmax: 10
+Job10 Machine 5 Duree 8 Debut 0 Fin 7
+Job8 Machine 4 Duree 9 Debut 0 Fin 8
+Job18 Machine 4 Duree 10 Debut 0 Fin 9
+Job15 Machine 3 Duree 10 Debut 0 Fin 9
+Job12 Machine 2 Duree 8 Debut 0 Fin 7
+Job5 Machine 2 Duree 6 Debut 0 Fin 5
+Job2 Machine 3 Duree 6 Debut 0 Fin 5
+Job9 Machine 1 Duree 6 Debut 0 Fin 5
+Job19 Machine 3 Duree 5 Debut 6 Fin 10
+Job13 Machine 5 Duree 8 Debut 0 Fin 7
+Job20 Machine 1 Duree 5 Debut 0 Fin 4
+Job6 Machine 1 Duree 4 Debut 6 Fin 9
+Job11 Machine 4 Duree 7 Debut 0 Fin 6
+Job1 Machine 2 Duree 3 Debut 6 Fin 8
+Job7 Machine 5 Duree 2 Debut 8 Fin 9
+Job17 Machine 1 Duree 3 Debut 6 Fin 8
+Job16 Machine 4 Duree 2 Debut 7 Fin 8
+Job4 Machine 2 Duree 2 Debut 6 Fin 7
+Job14 Machine 2 Duree 1 Debut 8 Fin 8
+Job3 Machine 2 Duree 1 Debut 0 Fin 0
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 15
+Job16 Machine 5 Duree 1 Debut 0 Fin 0
+Job4 Machine 5 Duree 2 Debut 0 Fin 1
+Job5 Machine 4 Duree 2 Debut 0 Fin 1
+Job11 Machine 4 Duree 2 Debut 0 Fin 1
+Job1 Machine 3 Duree 4 Debut 0 Fin 3
+Job15 Machine 4 Duree 5 Debut 0 Fin 4
+Job2 Machine 3 Duree 6 Debut 0 Fin 5
+Job9 Machine 2 Duree 6 Debut 0 Fin 5
+Job19 Machine 2 Duree 6 Debut 0 Fin 5
+Job8 Machine 3 Duree 7 Debut 0 Fin 6
+Job17 Machine 2 Duree 7 Debut 0 Fin 6
+Job3 Machine 1 Duree 8 Debut 0 Fin 7
+Job10 Machine 5 Duree 8 Debut 2 Fin 9
+Job13 Machine 4 Duree 8 Debut 0 Fin 7
+Job18 Machine 5 Duree 8 Debut 1 Fin 8
+Job20 Machine 4 Duree 8 Debut 2 Fin 9
+Job6 Machine 4 Duree 10 Debut 5 Fin 14
+Job7 Machine 3 Duree 10 Debut 6 Fin 15
+Job12 Machine 2 Duree 10 Debut 0 Fin 9
+Job14 Machine 2 Duree 10 Debut 6 Fin 15
+
+LPT Cmax: 10
+Job6 Machine 5 Duree 10 Debut 0 Fin 9
+Job7 Machine 5 Duree 10 Debut 0 Fin 9
+Job12 Machine 5 Duree 10 Debut 0 Fin 9
+Job14 Machine 4 Duree 10 Debut 0 Fin 9
+Job3 Machine 4 Duree 8 Debut 0 Fin 7
+Job10 Machine 3 Duree 8 Debut 0 Fin 7
+Job13 Machine 3 Duree 8 Debut 0 Fin 7
+Job18 Machine 2 Duree 8 Debut 0 Fin 7
+Job20 Machine 2 Duree 8 Debut 0 Fin 7
+Job8 Machine 5 Duree 7 Debut 0 Fin 6
+Job17 Machine 4 Duree 7 Debut 0 Fin 6
+Job2 Machine 1 Duree 6 Debut 0 Fin 5
+Job9 Machine 1 Duree 6 Debut 0 Fin 5
+Job19 Machine 2 Duree 6 Debut 0 Fin 5
+Job15 Machine 1 Duree 5 Debut 6 Fin 10
+Job1 Machine 1 Duree 4 Debut 6 Fin 9
+Job4 Machine 4 Duree 2 Debut 8 Fin 9
+Job5 Machine 3 Duree 2 Debut 8 Fin 9
+Job11 Machine 2 Duree 2 Debut 8 Fin 9
+Job16 Machine 1 Duree 1 Debut 6 Fin 6
+
+GRWC Cmax: 10
+Job14 Machine 5 Duree 10 Debut 0 Fin 9
+Job3 Machine 4 Duree 8 Debut 0 Fin 7
+Job6 Machine 4 Duree 10 Debut 0 Fin 9
+Job10 Machine 3 Duree 8 Debut 0 Fin 7
+Job7 Machine 5 Duree 10 Debut 0 Fin 9
+Job18 Machine 2 Duree 8 Debut 0 Fin 7
+Job20 Machine 2 Duree 8 Debut 0 Fin 7
+Job2 Machine 3 Duree 6 Debut 0 Fin 5
+Job9 Machine 1 Duree 6 Debut 0 Fin 5
+Job13 Machine 5 Duree 8 Debut 0 Fin 7
+Job12 Machine 2 Duree 10 Debut 0 Fin 9
+Job19 Machine 1 Duree 6 Debut 0 Fin 5
+Job1 Machine 1 Duree 4 Debut 6 Fin 9
+Job15 Machine 1 Duree 5 Debut 6 Fin 10
+Job17 Machine 4 Duree 7 Debut 0 Fin 6
+Job8 Machine 4 Duree 7 Debut 0 Fin 6
+Job11 Machine 4 Duree 2 Debut 8 Fin 9
+Job4 Machine 3 Duree 2 Debut 8 Fin 9
+Job5 Machine 3 Duree 2 Debut 8 Fin 9
+Job16 Machine 3 Duree 1 Debut 6 Fin 6
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 17
+Job10 Machine 5 Duree 1 Debut 0 Fin 0
+Job15 Machine 5 Duree 1 Debut 0 Fin 0
+Job19 Machine 4 Duree 1 Debut 0 Fin 0
+Job4 Machine 5 Duree 2 Debut 0 Fin 1
+Job9 Machine 3 Duree 2 Debut 0 Fin 1
+Job14 Machine 2 Duree 4 Debut 0 Fin 3
+Job3 Machine 1 Duree 5 Debut 0 Fin 4
+Job5 Machine 5 Duree 6 Debut 1 Fin 6
+Job17 Machine 3 Duree 6 Debut 0 Fin 5
+Job13 Machine 4 Duree 7 Debut 1 Fin 7
+Job18 Machine 3 Duree 7 Debut 2 Fin 8
+Job1 Machine 1 Duree 8 Debut 0 Fin 7
+Job6 Machine 4 Duree 8 Debut 0 Fin 7
+Job20 Machine 2 Duree 8 Debut 4 Fin 11
+Job2 Machine 5 Duree 9 Debut 2 Fin 10
+Job12 Machine 3 Duree 9 Debut 6 Fin 14
+Job7 Machine 5 Duree 10 Debut 7 Fin 16
+Job8 Machine 2 Duree 10 Debut 0 Fin 9
+Job11 Machine 1 Duree 10 Debut 5 Fin 14
+Job16 Machine 4 Duree 10 Debut 8 Fin 17
+
+LPT Cmax: 14
+Job7 Machine 5 Duree 10 Debut 0 Fin 9
+Job8 Machine 5 Duree 10 Debut 0 Fin 9
+Job11 Machine 4 Duree 10 Debut 0 Fin 9
+Job16 Machine 4 Duree 10 Debut 0 Fin 9
+Job2 Machine 4 Duree 9 Debut 0 Fin 8
+Job12 Machine 3 Duree 9 Debut 0 Fin 8
+Job1 Machine 3 Duree 8 Debut 0 Fin 7
+Job6 Machine 2 Duree 8 Debut 0 Fin 7
+Job20 Machine 1 Duree 8 Debut 0 Fin 7
+Job13 Machine 3 Duree 7 Debut 8 Fin 14
+Job18 Machine 2 Duree 7 Debut 0 Fin 6
+Job5 Machine 1 Duree 6 Debut 0 Fin 5
+Job17 Machine 1 Duree 6 Debut 6 Fin 11
+Job3 Machine 2 Duree 5 Debut 7 Fin 11
+Job14 Machine 5 Duree 4 Debut 10 Fin 13
+Job4 Machine 2 Duree 2 Debut 8 Fin 9
+Job9 Machine 4 Duree 2 Debut 10 Fin 11
+Job10 Machine 1 Duree 1 Debut 8 Fin 8
+Job15 Machine 3 Duree 1 Debut 9 Fin 9
+Job19 Machine 4 Duree 1 Debut 12 Fin 12
+
+GRWC Cmax: 15
+Job11 Machine 5 Duree 10 Debut 0 Fin 9
+Job7 Machine 4 Duree 10 Debut 0 Fin 9
+Job12 Machine 3 Duree 9 Debut 0 Fin 8
+Job13 Machine 3 Duree 7 Debut 0 Fin 6
+Job1 Machine 2 Duree 8 Debut 0 Fin 7
+Job20 Machine 1 Duree 8 Debut 0 Fin 7
+Job16 Machine 5 Duree 10 Debut 0 Fin 9
+Job17 Machine 1 Duree 6 Debut 0 Fin 5
+Job5 Machine 4 Duree 6 Debut 0 Fin 5
+Job3 Machine 4 Duree 5 Debut 6 Fin 10
+Job18 Machine 2 Duree 7 Debut 0 Fin 6
+Job8 Machine 1 Duree 10 Debut 6 Fin 15
+Job6 Machine 1 Duree 8 Debut 6 Fin 13
+Job14 Machine 3 Duree 4 Debut 7 Fin 10
+Job2 Machine 3 Duree 9 Debut 7 Fin 15
+Job9 Machine 2 Duree 2 Debut 8 Fin 9
+Job19 Machine 5 Duree 1 Debut 10 Fin 10
+Job4 Machine 2 Duree 2 Debut 7 Fin 8
+Job10 Machine 3 Duree 1 Debut 9 Fin 9
+Job15 Machine 2 Duree 1 Debut 9 Fin 9
+
+--------------------------------------------------------------------------------------------------
+SPT Cmax: 16
+Job2 Machine 5 Duree 1 Debut 0 Fin 0
+Job19 Machine 5 Duree 1 Debut 0 Fin 0
+Job20 Machine 4 Duree 1 Debut 0 Fin 0
+Job16 Machine 3 Duree 2 Debut 0 Fin 1
+Job17 Machine 3 Duree 2 Debut 0 Fin 1
+Job4 Machine 2 Duree 3 Debut 0 Fin 2
+Job1 Machine 2 Duree 4 Debut 0 Fin 3
+Job7 Machine 1 Duree 5 Debut 0 Fin 4
+Job12 Machine 1 Duree 5 Debut 0 Fin 4
+Job3 Machine 4 Duree 6 Debut 0 Fin 5
+Job5 Machine 5 Duree 6 Debut 1 Fin 6
+Job6 Machine 5 Duree 6 Debut 1 Fin 6
+Job10 Machine 5 Duree 6 Debut 1 Fin 6
+Job18 Machine 4 Duree 6 Debut 1 Fin 6
+Job11 Machine 3 Duree 8 Debut 2 Fin 9
+Job13 Machine 2 Duree 9 Debut 3 Fin 11
+Job14 Machine 3 Duree 9 Debut 2 Fin 10
+Job8 Machine 2 Duree 10 Debut 4 Fin 13
+Job9 Machine 1 Duree 10 Debut 5 Fin 14
+Job15 Machine 5 Duree 10 Debut 7 Fin 16
+
+LPT Cmax: 11
+Job8 Machine 5 Duree 10 Debut 0 Fin 9
+Job9 Machine 5 Duree 10 Debut 0 Fin 9
+Job15 Machine 4 Duree 10 Debut 0 Fin 9
+Job13 Machine 3 Duree 9 Debut 0 Fin 8
+Job14 Machine 4 Duree 9 Debut 0 Fin 8
+Job11 Machine 2 Duree 8 Debut 0 Fin 7
+Job3 Machine 3 Duree 6 Debut 0 Fin 5
+Job5 Machine 2 Duree 6 Debut 0 Fin 5
+Job6 Machine 5 Duree 6 Debut 0 Fin 5
+Job10 Machine 1 Duree 6 Debut 0 Fin 5
+Job18 Machine 3 Duree 6 Debut 6 Fin 11
+Job7 Machine 1 Duree 5 Debut 0 Fin 4
+Job12 Machine 1 Duree 5 Debut 5 Fin 9
+Job1 Machine 1 Duree 4 Debut 6 Fin 9
+Job4 Machine 2 Duree 3 Debut 6 Fin 8
+Job16 Machine 2 Duree 2 Debut 8 Fin 9
+Job17 Machine 5 Duree 2 Debut 10 Fin 11
+Job2 Machine 5 Duree 1 Debut 6 Fin 6
+Job19 Machine 4 Duree 1 Debut 10 Fin 10
+Job20 Machine 2 Duree 1 Debut 10 Fin 10
+
+GRWC Cmax: 11
+Job15 Machine 5 Duree 10 Debut 0 Fin 9
+Job13 Machine 4 Duree 9 Debut 0 Fin 8
+Job9 Machine 5 Duree 10 Debut 0 Fin 9
+Job8 Machine 4 Duree 10 Debut 0 Fin 9
+Job11 Machine 3 Duree 8 Debut 0 Fin 7
+Job14 Machine 3 Duree 9 Debut 0 Fin 8
+Job3 Machine 2 Duree 6 Debut 0 Fin 5
+Job18 Machine 2 Duree 6 Debut 0 Fin 5
+Job12 Machine 1 Duree 5 Debut 0 Fin 4
+Job7 Machine 1 Duree 5 Debut 0 Fin 4
+Job5 Machine 1 Duree 6 Debut 5 Fin 10
+Job6 Machine 1 Duree 6 Debut 5 Fin 10
+Job1 Machine 2 Duree 4 Debut 6 Fin 9
+Job10 Machine 2 Duree 6 Debut 6 Fin 11
+Job4 Machine 3 Duree 3 Debut 8 Fin 10
+Job16 Machine 3 Duree 2 Debut 9 Fin 10
+Job17 Machine 4 Duree 2 Debut 9 Fin 10
+Job19 Machine 5 Duree 1 Debut 10 Fin 10
+Job20 Machine 5 Duree 1 Debut 11 Fin 11
+Job2 Machine 3 Duree 1 Debut 0 Fin 0
+
+--------------------------------------------------------------------------------------------------

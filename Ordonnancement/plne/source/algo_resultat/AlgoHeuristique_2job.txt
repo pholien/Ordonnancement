@@ -1,0 +1,240 @@
+SPT Cmax: 3
+Job1 Duree 2 Debut 0 Fin 1
+Job2 Duree 4 Debut 0 Fin 3
+
+LPT Cmax: 3
+Job2 Duree 4 Debut 0 Fin 3
+Job1 Duree 2 Debut 0 Fin 1
+
+GRWC Cmax: 3
+Job2 Duree 4 Debut 0 Fin 3
+Job1 Duree 2 Debut 0 Fin 1
+---------------------------------------------
+SPT Cmax: 14
+Job2 Duree 7 Debut 0 Fin 6
+Job1 Duree 8 Debut 7 Fin 14
+
+LPT Cmax: 14
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 7 Debut 8 Fin 14
+
+GRWC Cmax: 14
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 7 Debut 8 Fin 14
+---------------------------------------------
+SPT Cmax: 12
+Job1 Duree 5 Debut 0 Fin 4
+Job2 Duree 8 Debut 5 Fin 12
+
+LPT Cmax: 12
+Job2 Duree 8 Debut 0 Fin 7
+Job1 Duree 5 Debut 8 Fin 12
+
+GRWC Cmax: 12
+Job2 Duree 8 Debut 0 Fin 7
+Job1 Duree 5 Debut 8 Fin 12
+---------------------------------------------
+SPT Cmax: 8
+Job1 Duree 4 Debut 0 Fin 3
+Job2 Duree 5 Debut 4 Fin 8
+
+LPT Cmax: 8
+Job2 Duree 5 Debut 0 Fin 4
+Job1 Duree 4 Debut 5 Fin 8
+
+GRWC Cmax: 8
+Job1 Duree 4 Debut 0 Fin 3
+Job2 Duree 5 Debut 4 Fin 8
+---------------------------------------------
+SPT Cmax: 18
+Job2 Duree 9 Debut 0 Fin 8
+Job1 Duree 10 Debut 9 Fin 18
+
+LPT Cmax: 18
+Job1 Duree 10 Debut 0 Fin 9
+Job2 Duree 9 Debut 10 Fin 18
+
+GRWC Cmax: 18
+Job2 Duree 9 Debut 0 Fin 8
+Job1 Duree 10 Debut 9 Fin 18
+---------------------------------------------
+SPT Cmax: 6
+Job2 Duree 6 Debut 0 Fin 5
+Job1 Duree 7 Debut 0 Fin 6
+
+LPT Cmax: 6
+Job1 Duree 7 Debut 0 Fin 6
+Job2 Duree 6 Debut 0 Fin 5
+
+GRWC Cmax: 6
+Job2 Duree 6 Debut 0 Fin 5
+Job1 Duree 7 Debut 0 Fin 6
+---------------------------------------------
+SPT Cmax: 7
+Job1 Duree 3 Debut 0 Fin 2
+Job2 Duree 5 Debut 3 Fin 7
+
+LPT Cmax: 7
+Job2 Duree 5 Debut 0 Fin 4
+Job1 Duree 3 Debut 5 Fin 7
+
+GRWC Cmax: 7
+Job2 Duree 5 Debut 0 Fin 4
+Job1 Duree 3 Debut 5 Fin 7
+---------------------------------------------
+SPT Cmax: 15
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 8 Debut 8 Fin 15
+
+LPT Cmax: 15
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 8 Debut 8 Fin 15
+
+GRWC Cmax: 15
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 8 Debut 8 Fin 15
+---------------------------------------------
+SPT Cmax: 4
+Job1 Duree 4 Debut 0 Fin 3
+Job2 Duree 5 Debut 0 Fin 4
+
+LPT Cmax: 4
+Job2 Duree 5 Debut 0 Fin 4
+Job1 Duree 4 Debut 0 Fin 3
+
+GRWC Cmax: 4
+Job2 Duree 5 Debut 0 Fin 4
+Job1 Duree 4 Debut 0 Fin 3
+---------------------------------------------
+SPT Cmax: 11
+Job1 Duree 6 Debut 0 Fin 5
+Job2 Duree 6 Debut 6 Fin 11
+
+LPT Cmax: 11
+Job1 Duree 6 Debut 0 Fin 5
+Job2 Duree 6 Debut 6 Fin 11
+
+GRWC Cmax: 11
+Job1 Duree 6 Debut 0 Fin 5
+Job2 Duree 6 Debut 6 Fin 11
+---------------------------------------------
+SPT Cmax: 7
+Job1 Duree 3 Debut 0 Fin 2
+Job2 Duree 8 Debut 0 Fin 7
+
+LPT Cmax: 7
+Job2 Duree 8 Debut 0 Fin 7
+Job1 Duree 3 Debut 0 Fin 2
+
+GRWC Cmax: 7
+Job2 Duree 8 Debut 0 Fin 7
+Job1 Duree 3 Debut 0 Fin 2
+---------------------------------------------
+SPT Cmax: 14
+Job1 Duree 7 Debut 0 Fin 6
+Job2 Duree 8 Debut 7 Fin 14
+
+LPT Cmax: 14
+Job2 Duree 8 Debut 0 Fin 7
+Job1 Duree 7 Debut 8 Fin 14
+
+GRWC Cmax: 14
+Job1 Duree 7 Debut 0 Fin 6
+Job2 Duree 8 Debut 7 Fin 14
+---------------------------------------------
+SPT Cmax: 8
+Job2 Duree 4 Debut 0 Fin 3
+Job1 Duree 5 Debut 4 Fin 8
+
+LPT Cmax: 8
+Job1 Duree 5 Debut 0 Fin 4
+Job2 Duree 4 Debut 5 Fin 8
+
+GRWC Cmax: 8
+Job1 Duree 5 Debut 0 Fin 4
+Job2 Duree 4 Debut 5 Fin 8
+---------------------------------------------
+SPT Cmax: 9
+Job2 Duree 9 Debut 0 Fin 8
+Job1 Duree 10 Debut 0 Fin 9
+
+LPT Cmax: 9
+Job1 Duree 10 Debut 0 Fin 9
+Job2 Duree 9 Debut 0 Fin 8
+
+GRWC Cmax: 9
+Job1 Duree 10 Debut 0 Fin 9
+Job2 Duree 9 Debut 0 Fin 8
+---------------------------------------------
+SPT Cmax: 10
+Job2 Duree 3 Debut 0 Fin 2
+Job1 Duree 8 Debut 3 Fin 10
+
+LPT Cmax: 10
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 3 Debut 8 Fin 10
+
+GRWC Cmax: 10
+Job1 Duree 8 Debut 0 Fin 7
+Job2 Duree 3 Debut 8 Fin 10
+---------------------------------------------
+SPT Cmax: 9
+Job1 Duree 1 Debut 0 Fin 0
+Job2 Duree 10 Debut 0 Fin 9
+
+LPT Cmax: 9
+Job2 Duree 10 Debut 0 Fin 9
+Job1 Duree 1 Debut 0 Fin 0
+
+GRWC Cmax: 9
+Job2 Duree 10 Debut 0 Fin 9
+Job1 Duree 1 Debut 0 Fin 0
+---------------------------------------------
+SPT Cmax: 4
+Job2 Duree 4 Debut 0 Fin 3
+Job1 Duree 5 Debut 0 Fin 4
+
+LPT Cmax: 4
+Job1 Duree 5 Debut 0 Fin 4
+Job2 Duree 4 Debut 0 Fin 3
+
+GRWC Cmax: 4
+Job1 Duree 5 Debut 0 Fin 4
+Job2 Duree 4 Debut 0 Fin 3
+---------------------------------------------
+SPT Cmax: 6
+Job1 Duree 4 Debut 0 Fin 3
+Job2 Duree 7 Debut 0 Fin 6
+
+LPT Cmax: 6
+Job2 Duree 7 Debut 0 Fin 6
+Job1 Duree 4 Debut 0 Fin 3
+
+GRWC Cmax: 6
+Job1 Duree 4 Debut 0 Fin 3
+Job2 Duree 7 Debut 0 Fin 6
+---------------------------------------------
+SPT Cmax: 3
+Job1 Duree 2 Debut 0 Fin 1
+Job2 Duree 2 Debut 2 Fin 3
+
+LPT Cmax: 3
+Job1 Duree 2 Debut 0 Fin 1
+Job2 Duree 2 Debut 2 Fin 3
+
+GRWC Cmax: 3
+Job2 Duree 2 Debut 0 Fin 1
+Job1 Duree 2 Debut 2 Fin 3
+---------------------------------------------
+SPT Cmax: 5
+Job2 Duree 3 Debut 0 Fin 2
+Job1 Duree 6 Debut 0 Fin 5
+
+LPT Cmax: 5
+Job1 Duree 6 Debut 0 Fin 5
+Job2 Duree 3 Debut 0 Fin 2
+
+GRWC Cmax: 5
+Job1 Duree 6 Debut 0 Fin 5
+Job2 Duree 3 Debut 0 Fin 2
+---------------------------------------------
